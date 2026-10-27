@@ -1,0 +1,11 @@
+{
+  "name": "Food Verse AI",
+  "description": "Multimodal Food Intelligence Agent featuring food recognition, nutrition analysis, freshness detection, restaurant hygiene monitoring, smart cooking assistance, and personalized meal planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
